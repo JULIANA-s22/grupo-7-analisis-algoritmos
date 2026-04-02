@@ -1,5 +1,6 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
+        
         """
         Bitset con entero nativo de Python
         PASO A PASO:
